@@ -1,6 +1,8 @@
 # Edward's Portfolio
 This is my example github portfolio
+
 Following this video [Ken Jee's Video](https://www.youtube.com/watch?v=1aXk2RViq3c&t=434s)
+
 # Project 1 - Formula 1 blah blah
 * Created a tool that predicts the average something something of something
 * Thsi is cool because black
