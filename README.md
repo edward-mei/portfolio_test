@@ -2,7 +2,7 @@
 
 Yo this is just testing what is going on here 
 
-**bold text testing ~~~**
+
 
 You can use the [editor on GitHub](https://github.com/edward-mei/portfolio_test/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -26,6 +26,8 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+
+**bold testing **
 
 [Link](url) and ![Image](src)
 ```
