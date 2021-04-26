@@ -1,3 +1,16 @@
+# Edward's Portfolio
+This is my example github portfolio
+
+# Project 1 - Formula 1 blah blah
+* Created a tool that predicts the average something something of something
+* Thsi is cool because black
+* Built a client **facing** API that does things
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 Yo this is just testing what is going on here 
@@ -27,7 +40,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-**bold testing **
+
 
 [Link](url) and ![Image](src)
 ```
@@ -41,3 +54,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
